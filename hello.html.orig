@@ -6,11 +6,14 @@
         </title>
     </head>
     <body>
+<<<<<<< HEAD
         Hello, world! Hello again!
         conflict test
+=======
         Hello, world! Hello again! Hello Hello Hello!
         text2
-        text 3
+        text 2
+>>>>>>> 7e9633e231905c38cee82d579a4f54e453e868b4
     </body>
 </html>
 
